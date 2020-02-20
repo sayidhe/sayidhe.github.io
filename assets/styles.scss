@@ -28,6 +28,7 @@
 .article {
   h1, h2, h3, h4,
   .highlight {
+    margin-top: 16px;
     margin-bottom: 16px;
   }
 
@@ -91,4 +92,26 @@
   .margin-left {
     margin-left: 25%;
   }
+}
+
+img {
+  width: 100%;
+}
+
+img.medium {
+  width: 100%;
+  @media (min-width: 768px) {
+    width: 80%;
+  }
+}
+
+img.small {
+  width: 60%;
+  @media (min-width: 768px) {
+    width: 40%;
+  }
+}
+
+.center {
+  text-align: center;
 }

@@ -1,6 +1,8 @@
 layout: sidebar
 style: light
 
+repository: sayidhe/sayidhe.github.io
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
