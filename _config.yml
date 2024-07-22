@@ -29,6 +29,13 @@ projects:
     forks: true
     projects:
     # - repo-name
+      - learnstorybook-design-system
+      - image-compress-scale-transfrom
+      - my-gatsby-starter
+      - event-output
+      - google-font-test
+      - react-and-d3
+      - map-output
 
 social_media:
   # behance: sayidhe
